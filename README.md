@@ -5,7 +5,7 @@
 * **Context:** Collaborative academic project for the BSc in Vehicle Engineering program at Széchenyi István University.
 
 ## ⚙️ My Specific Contributions
-* **Releasing Mechanism Design:** I conceptualized and integrated a custom remote launch system. [cite_start]By modifying a garden hose connector and linking it to a bicycle brake cable and handle, I created a reliable, high-pressure quick-release mechanism.
+* **Releasing Mechanism Design:** I conceptualized and integrated a custom remote launch system. By modifying a garden hose connector and linking it to a bicycle brake cable and handle, I created a reliable, high-pressure quick-release mechanism.
 * **Thermodynamic & Kinematic Calculations:** Developed an iterative mathematical model in Excel to simulate the rocket's flight according the instructions provided.
 * **Optimization:** Calculated the optimal initial water volume and optimal air pressure to maximize $F_{thrust}$ over time while minimizing the depletion rate of the pressurized gas. 
 
